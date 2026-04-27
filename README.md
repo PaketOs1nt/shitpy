@@ -1,6 +1,10 @@
 # shitpy
 old shit python obfuscator by me
 
+## usage:
+<img width="910" height="595" alt="изображение" src="https://github.com/user-attachments/assets/e3ca22c6-57da-4504-a645-e0b0c96fcb87" />
+
+
 ## example source:
 <img width="835" height="806" alt="изображение" src="https://github.com/user-attachments/assets/765ceb10-3b5a-4d19-aef8-ed2c80a25dcd" />
 
